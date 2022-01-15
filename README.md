@@ -41,3 +41,21 @@ Calculates the gst tax for a given meal.
 * Learned casting input string to other types.
 * Learned number formatting to 2 decimal places.
 
+## Fizzbuzz
+### Explanation
+
+Fizzbuzz implementation in python
+
+### Learning outcomes
+
+* White space before '()', ':' not allowed
+
+## QR_Creator
+### Explanation
+
+Generates qr code images from input links
+
+### Learning outcomes
+
+* Nothing significant
+
