@@ -59,3 +59,12 @@ Generates qr code images from input links
 
 * Nothing significant
 
+## Data Visualizer
+### Explanation
+
+Introduction to plotly library usage for data visualization projects
+
+### Learning outcomes
+
+* Nothing significant
+
