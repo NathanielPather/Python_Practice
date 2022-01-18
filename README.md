@@ -59,7 +59,7 @@ Generates qr code images from input links
 
 * Nothing significant
 
-## Data Visualizer
+## Data_Visualizer
 ### Explanation
 
 Introduction to plotly library usage for data visualization projects
@@ -68,3 +68,23 @@ Introduction to plotly library usage for data visualization projects
 
 * Nothing significant
 
+## Flower_Prediction
+### Explanation
+
+Introduction to machine learning. Uses data sets containing measurements of flowers to predict the species of flowers.
+
+Overall I've learned quite a bit on the general process, but more projects need to be completed for proficiency.
+
+### Learning outcomes
+
+* Learned a very general process for implementing machine learning for prediction.
+* Importing data sets. Kaggle is a good source.
+* Data Visualizations. Good for getting a quick idea of what the data means.
+* Data can be plotted as either univariate (single attribute) or multivariate (relationships between attributes).
+* Creating a validation data set. Validation dataset tells us how good our prediction model is.
+* Creating a training data set. Training dataset trains the models.
+* Creating an evaluation data set. Evaluation dataset is analysed by the model and predictions are made.
+* Build models using multiple algorithms.
+* Select the most accurate model.
+* Provide the model the training data.
+* Complete the predictions and evaluate them to the validation data set.
