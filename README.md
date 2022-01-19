@@ -88,3 +88,20 @@ Overall I've learned quite a bit on the general process, but more projects need 
 * Select the most accurate model.
 * Provide the model the training data.
 * Complete the predictions and evaluate them to the validation data set.
+
+## Win_Prediction
+### Explanation
+
+An attempt to implement the same machine learning program on predicting wins for league of legends matches based on match data.
+
+Wwhile the accuracy states 82%, I have very little experience and the model may not be accurate at all.
+
+### Learning outcomes
+
+* Learned a few more specifics and filling in the gaps in my knowledge.
+* Array slicing is needed to split training, evaluation, and validation data from each other.
+* From my understanding, the X array contains the input variables.
+* The Y array contains the output variables.
+* Input variables are what you put in.
+* Output variables are what you hope to predict and may be missing in some cases.
+* I think I'll begin to look at the algorithms more in depth.
